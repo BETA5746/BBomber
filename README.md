@@ -22,12 +22,13 @@
 ### آموزش دانلود و اجرا
 اول باید ترموکس را دانلود و طریقه کار با اون رو بلد باشی که من هیسچ آموزش نمیدم و فقط برای دانلود گذاشتم
 اول پکیج های مورد نیاز
-pkg install git && pkg install python && pip install urllib3
-سپس دانلود فایل git clone https://github.com/BETA5746/github-pages.git
+### pkg install git && pkg install python && pip install urllib3
+سپس دانلود فایل
+### https://github.com/BETA5746/github-pages.git
 و بعد از دانلود وارد پوشه شوید
-cd BBomber
+### cd BBomber
 بعد فایل را اجرا کنید
-python BBomber.py
+### python BBomber.py
 و بوم
 
 
