@@ -24,7 +24,7 @@
 اول پکیج های مورد نیاز
 ### pkg install git && pkg install python && pip install urllib3
 سپس دانلود فایل
-### git clone https://github.com/BETA5746/github-pages.git
+### git https://github.com/BETA5746/BBomber.git
 و بعد از دانلود وارد پوشه شوید
 ### cd BBomber
 بعد فایل را اجرا کنید
